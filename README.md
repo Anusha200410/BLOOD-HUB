@@ -1,7 +1,8 @@
 # BLOOD HUB
 
----
-## Screenshots
+##  Description
+Blood Hub is a web-based Blood Bank Management System designed to streamline the process of managing blood donations, requests, and inventory. It connects donors, recipients, and blood banks in an efficient way, ensuring quick access to blood during emergencies.
+
 
 ### Home Page
 ![Home Page](images/home.png)
