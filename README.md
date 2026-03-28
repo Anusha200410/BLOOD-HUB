@@ -1,4 +1,4 @@
-# Blood Bank Management System
+# BLOOD HUB
 
 ---
 ## Screenshots
@@ -73,4 +73,4 @@ py manage.py makemigrations
 py manage.py migrate
 py manage.py runserver
 ```
-- Now enter following URL in Your Browser Installed On Your Pc
+- Now enter the URL in Your Browser Installed On Your Pc
